@@ -124,19 +124,19 @@ This project implements an intelligent air quality monitoring system combining:
 
 | Good Quality | Moderate Quality | Very Poor Quality |
 |--------------|------------------|-------------------|
-| ![Good](Screenshots/Blynk_Dashboard/Blynk_Safe.PNG) | ![Moderate](Screenshots/Blynk_Dashboard/Blynk_Moderate.png) | ![Poor](Screenshots/Blynk_Dashboard/Blynk_VeryPoor.png) |
+| ![Good](Screenshots/Blynk_Dashboard/Blynk_Safe.PNG) | ![Moderate](Screenshots/Blynk_Dashboard/Blynk_Moderate.PNG) | ![Poor](Screenshots/Blynk_Dashboard/Blynk_VeryPoor.PNG) |
 
 ### Wokwi Simulation
 
-| Circuit Diagram | Green LED (Good) | Red LED (Poor) |
+| Green LED (Good) | Yellow LED (Moderate) | Red LED (Poor) |
 |-----------------|------------------|----------------|
-| ![Circuit](Screenshots/Wokwi_Simulation/circuit.png) | ![Green](Screenshots/Wokwi_Simulation/green_led.png) | ![Red](Screenshots/Wokwi_Simulation/red_led.png) |
+| ![Green](Screenshots/Wokwi_Simulation/Good_Quality.PNG) | ![Yellow](Screenshots/Wokwi_Simulation/Moderate_Quality.PNG) | ![Red](Screenshots/Wokwi_Simulation/Very_Poor_Quality.PNG) |
 
 ---
 
 ## 📱 Blynk Configuration
 
-**Template ID**: `TMPL5psTX8YqQ`  
+**Template ID**: `your_template_id`  
 **Template Name**: Smart Air Quality Monitor
 
 ### Virtual Pin Mapping
