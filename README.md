@@ -124,7 +124,7 @@ This project implements an intelligent air quality monitoring system combining:
 
 | Good Quality | Moderate Quality | Very Poor Quality |
 |--------------|------------------|-------------------|
-| ![Good](Screenshots/Blynk_Dashboard/good_state.png) | ![Moderate](Screenshots/Blynk_Dashboard/moderate_state.png) | ![Poor](Screenshots/Blynk_Dashboard/verypoor_state.png) |
+| ![Good](Screenshots/Blynk_Dashboard/Blynk_Safe.png) | ![Moderate](Screenshots/Blynk_Dashboard/Blynk_Moderate.png) | ![Poor](Screenshots/Blynk_Dashboard/Blynk_VeryPoor.png) |
 
 ### Wokwi Simulation
 
@@ -245,14 +245,6 @@ Module: LD7182 - AI for IoT
 - Wokwi for simulation platform
 - Blynk for IoT cloud infrastructure
 - Northumbria University for academic support
-
----
-
-## 📧 Contact
-
-For questions or collaboration:
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@university.ac.uk
 
 ---
 
