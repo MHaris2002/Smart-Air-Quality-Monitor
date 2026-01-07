@@ -124,7 +124,7 @@ This project implements an intelligent air quality monitoring system combining:
 
 | Good Quality | Moderate Quality | Very Poor Quality |
 |--------------|------------------|-------------------|
-| ![Good](Screenshots/Blynk_Dashboard/Blynk_Safe.png) | ![Moderate](Screenshots/Blynk_Dashboard/Blynk_Moderate.png) | ![Poor](Screenshots/Blynk_Dashboard/Blynk_VeryPoor.png) |
+| ![Good](Screenshots/Blynk_Dashboard/Blynk_Safe.PNG) | ![Moderate](Screenshots/Blynk_Dashboard/Blynk_Moderate.png) | ![Poor](Screenshots/Blynk_Dashboard/Blynk_VeryPoor.png) |
 
 ### Wokwi Simulation
 
